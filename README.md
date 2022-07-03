@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Flutter Projects
-- 🌱 I’m currently improving my state manegement
+- 🌱 I’m currently improving my State Manegement
 - 💬 Ask me about Flutter
 - 📫 How to reach me: @CNacuta
 <!--- 
