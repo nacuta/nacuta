@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
+
 
 - 🔭 I’m currently working on `Flutter` Projects
 - 🌱 I’m currently improving my `State` `Manegement`
